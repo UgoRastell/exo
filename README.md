@@ -1,3 +1,0 @@
-# frites
-# pâtes
-# hamburger
