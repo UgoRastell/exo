@@ -1,8 +1,8 @@
 <?php
 $num = 0;
-while($num <= 100)
+while($num <= 99)
 {
     $num++;
-    echo "$num";
+    echo "$num\n";
 }
 ?>
